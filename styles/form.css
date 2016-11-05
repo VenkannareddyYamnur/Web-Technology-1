@@ -1,0 +1,15 @@
+.signin{
+	background:#ffffff;
+	position:absolute;
+	top:200px;
+	width:99%;
+	height:auto;
+	padding:10px;
+	box-shadow: 5px 5px 5px 2px #a6a6a6;
+}
+h2.signinbanner{
+	font-family: 'Droid Sans', sans-serif;
+	font-size:2em;
+	text-align:center;
+	padding:5px;
+}	
